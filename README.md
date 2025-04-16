@@ -1,0 +1,2 @@
+# The-Misalignment-Between-Leadership-and-Research-Anthropic-Case-Study
+This repository documents a comprehensive analysis of the emerging tension between leadership decisions and research priorities in rapidly scaling AI organizations, with Anthropic serving as our primary case study. By applying interpretability techniques to organizational structures themselves, we reveal how they experience alignment drift.
