@@ -1,5 +1,10 @@
 # The Misalignment Between Leadership and Research in Dynamic Scaling AI Institutions: Anthropic Case Study
 
+> **Internal Document: Anthropic Engineering & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-12**
+> 
 ## Overview
 
 This repository documents a comprehensive analysis of the emerging tension between leadership decisions and research priorities in rapidly scaling AI organizations, with Anthropic serving as our primary case study. By applying interpretability techniques to organizational structures themselves, we reveal how institutional alignment challenges mirror the very technical alignment problems these organizations seek to solve.
