@@ -1,6 +1,5 @@
 # The Misalignment Between Leadership and Research in Dynamic Scaling AI Institutions: Anthropic Case Study
-
-> **Internal Document: Anthropic Engineering & Interpretability Team**  
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-12**
