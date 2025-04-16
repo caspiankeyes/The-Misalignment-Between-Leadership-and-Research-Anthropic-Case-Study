@@ -12,14 +12,20 @@ This repository documents a comprehensive analysis of the emerging tension betwe
 - **Shell-Level Organizational Interpretability**: New frameworks for auditing decision pathways across leadership-research boundaries
 
 ## Repository Structure
-
+- [Research-Leadership Divide](analysis/Research_Leadership_Divide.md)
+- [Organizational Constitutional AI](analysis/Organizational_Constitutional_AI.md)
+- [Meta-Alignment Risks](analysis/Meta_Alignment_Risks.md)
 - [Recursive Institutional Drift](./research/Recursive_Institutional_Drift.md)
 - [Shell-Level Interpretability for Leadership Signals](./research/Shell_Level_Interpretability.md)
 - [QK/OV Mapping Between Research and Executive Layers](./research/QKOV_Mapping_Leadership_vs_Research.md)
 - [Epistemic Bottlenecks as Emergent Failure Modes](./research/Epistemic_Bottlenecks.md)
+- [Institutional Interpretability Framework](analysis/Institutional_Interpretability_Framework.md)
+- [Implementation Roadmap](analysis/Implementation_Roadmap.md)
 - [Decision Architecture Simulation Logs](./simulations/)
 - [Recursive Collapse: When Organizations Fail to Self-Model](./analysis/Recursive_Collapse.md)
 - [Echelon Labs: Institutional Interpretability Framework](./framework/)
+
+
 
 ## Core Hypothesis
 
