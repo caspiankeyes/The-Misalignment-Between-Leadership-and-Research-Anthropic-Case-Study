@@ -1,20 +1,9 @@
 # The Misalignment Between Leadership and Research in Dynamic Scaling AI Institutions: Anthropic Case Study
 
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-16**
-> 
+
 ## Overview
 
 This repository documents a comprehensive analysis of the emerging tension between leadership decisions and research priorities in rapidly scaling AI organizations, with Anthropic serving as our primary case study. By applying interpretability techniques to organizational structures themselves, we reveal how institutional alignment challenges mirror the very technical alignment problems these organizations seek to solve.
